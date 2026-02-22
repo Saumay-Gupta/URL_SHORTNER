@@ -25,12 +25,12 @@ This project demonstrates backend routing, database schema design, API creation,
 
 ---
 
-### 📍 Screenshot 2 – Shortened URL Generated
+### 📍 Screenshot 2 – SignUp/Login
 ![Screenshot 2](./screenshots/screenshot2.png)
 
 ---
 
-### 📍 Screenshot 3 – Redirect / Analytics Page
+### 📍 Screenshot 3 – Shortened URL Generated / Analytics Page
 ![Screenshot 3](./screenshots/screenshot3.png)
 
 ---
